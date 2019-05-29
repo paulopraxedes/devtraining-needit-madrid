@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_lists_screen">
+    <sys_sg_related_lists_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <fetch_type>background</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">55429a48dbb53300a7d52fb74896199e</icon>
+        <name>Related List</name>
+        <order>30</order>
+        <parent>4ded0e84dbb53300a7d52fb7489619c7</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <show_count>true</show_count>
+        <sys_class_name>sys_sg_related_lists_screen</sys_class_name>
+        <sys_created_by>paulo.praxedes</sys_created_by>
+        <sys_created_on>2019-05-29 00:57:08</sys_created_on>
+        <sys_id>51ed0e84dbb53300a7d52fb7489619d3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Related List</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_related_lists_screen_51ed0e84dbb53300a7d52fb7489619d3</sys_update_name>
+        <sys_updated_by>paulo.praxedes</sys_updated_by>
+        <sys_updated_on>2019-05-29 01:16:17</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_related_lists_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=51ed0e84dbb53300a7d52fb7489619d3"/>
+</record_update>

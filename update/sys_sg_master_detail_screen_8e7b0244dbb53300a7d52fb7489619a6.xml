@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="NeedIt - Next Quarter">fe2a7548db753300a7d52fb748961925</data_item>
+        <description>Open NeedIt records for next quarter</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="thumbs-up">a97bca04dbb53300a7d52fb748961930</icon>
+        <name>NeedIt Next Quarter</name>
+        <order>20</order>
+        <parent>120c8644dbb53300a7d52fb7489619ef</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>paulo.praxedes</sys_created_by>
+        <sys_created_on>2019-05-29 00:46:32</sys_created_on>
+        <sys_id>8e7b0244dbb53300a7d52fb7489619a6</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>NeedIt Next Quarter</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_8e7b0244dbb53300a7d52fb7489619a6</sys_update_name>
+        <sys_updated_by>paulo.praxedes</sys_updated_by>
+        <sys_updated_on>2019-05-29 00:51:16</sys_updated_on>
+    </sys_sg_master_detail_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=8e7b0244dbb53300a7d52fb7489619a6"/>
+</record_update>
